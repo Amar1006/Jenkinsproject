@@ -6,5 +6,6 @@ class HelloWorld
         System.out.println("Hello, World! My jenkin server is running.");
         System.out.println("Hello, World! This line added with the help of jenkinsdev editor"); 
         System.out.println("Hello, World! This line added with the help of jenkinsdevloper editor");
+        System.out.println("Hello, World! This line added to check pipeline with groovy code");
     }
 }
