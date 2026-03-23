@@ -7,5 +7,6 @@ class helloworld
         System.out.println("Hello, World! This line added with the help of jenkinsdev editor"); 
         System.out.println("Hello, World! This line added with the help of jenkinsdevloper editor");
         System.out.println("Hello, World! This line added to check pipeline with groovy code");
+        System.out.println("Hello, World! This is SCM code ");
     }
 }
